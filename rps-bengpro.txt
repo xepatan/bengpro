@@ -1,3 +1,6 @@
 Outline MK bengpro
 - Pengenalan Internet
 - Pengenalan web dan pemrograman
+- Pengenalan HTML
+- Teknik Dasar CSS
+- Belajar JavaScript
